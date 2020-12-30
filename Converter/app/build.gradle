@@ -4,7 +4,14 @@ plugins {
 }
 
 android {
-
+     signingConfigs {
+        sConfig {
+            storeFile file('C:\\Projects\\Key.jks')
+            storePassword 'Qwert12345WE'
+            keyPassword 'Qwert12345WE'
+            keyAlias 'key0'
+        }
+    }
 
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -13,8 +20,8 @@ android {
         applicationId "com.example.converter"
         minSdkVersion 22
         targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+        versionCode versioning.getVersionCode()
+        versionName versioning.getVersionName()
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
