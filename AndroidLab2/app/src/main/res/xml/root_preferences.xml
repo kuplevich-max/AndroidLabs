@@ -1,0 +1,31 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+        <Preference
+            app:key="clear"
+            app:title="@string/clearData" />
+
+        <ListPreference
+            app:defaultValue="big"
+            app:entries="@array/font_entries"
+            app:entryValues="@array/font_values"
+            app:key="font"
+            app:title="@string/font_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="day"
+            app:entries="@array/theme_entries"
+            app:entryValues="@array/theme_values"
+            app:key="theme"
+            app:title="@string/theme_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="eng"
+            app:entries="@array/lang_entries"
+            app:entryValues="@array/lang_values"
+            app:key="lang"
+            app:title="@string/lang_title"
+            app:useSimpleSummaryProvider="true" />
+
+
+</PreferenceScreen>
