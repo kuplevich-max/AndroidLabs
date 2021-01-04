@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="app_name">AndroidLab2</string>
+    <string name="add">Добавить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="clearData">Удалить данные</string>
+    <string name="font_title">Шрифт</string>
+    <string name="theme_title">Тема</string>
+    <string name="lang_title">Язык</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="sets">Подходов</string>
+    <string name="setPause">Пауза</string>
+    <string name="save">Сохранить</string>
+    <string name="cycles">Циклов</string>
+    <string name="work">Занятие</string>
+    <string name="prepare">Подготовка</string>
+    <string name="trainingTitle">Tренировка</string>
+    <string name="title">Заголовок</string>
+    <string name="color">Цвет</string>
+    <string name="pause">Пауза</string>
+    <string name="end">Конец</string>
+    <string name="go">Продолжить</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+</resources>
