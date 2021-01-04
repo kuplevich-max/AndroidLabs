@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item>
+                <bitmap
+                    android:src="@drawable/ship_destroyed"
+                    android:alpha="1"
+                    android:gravity="center"
+                    >
+                </bitmap>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <stroke android:color="@color/semi_main" android:width="2dp" />
+                    <size android:width="30dp" android:height="30dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886588094227",
+    "firebase_url": "https://seafight-9ce35-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "seafight-9ce35",
+    "storage_bucket": "seafight-9ce35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886588094227:android:4fc9e72e787a5fd2240ce6",
+        "android_client_info": {
+          "package_name": "com.example.seafight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886588094227-9v24o6ergcsgghvsdp4jovq3a228vc1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGVpjSBfNUThfFBcLOTGwMW3S8RLkOJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886588094227-9v24o6ergcsgghvsdp4jovq3a228vc1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

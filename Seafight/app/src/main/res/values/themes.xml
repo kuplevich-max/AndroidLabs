@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Seafight" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryVariant">@color/sub</item>
+        <item name="colorPrimary">@color/semi_main</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/semi_sub_light</item>
+        <item name="colorSecondary">@color/semi_sub</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Seafight.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="Theme.Seafight.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.Seafight.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+</resources>

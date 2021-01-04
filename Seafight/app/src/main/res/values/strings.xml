@@ -1,0 +1,29 @@
+<resources>
+    <string name="close">Close</string>
+    <string name="logout">Выйти</string>
+    <string name="code">Код игры</string>
+    <string name="save">Сохранить</string>
+    <string name="create">Создать</string>
+    <string name="copy">Копировать</string>
+    <string name="menu_gallery">Бой</string>
+    <string name="upload">Загрузить</string>
+    <string name="action_game">Игра</string>
+    <string name="action_start">Поле</string>
+    <string name="menu_to_game">Игра</string>
+    <string name="prompt_email">Почта</string>
+    <string name="menu_home">Ваше поле</string>
+    <string name="app_name">Морской бой</string>
+    <string name="connect">Подключиться</string>
+    <string name="generate">Создать код</string>
+    <string name="menu_account">Аккаунт</string>
+    <string name="name_hint">Ваш никнейм</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_account">Аккаунт</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="choose_file">Выбрать файл</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="nav_header_title">Морской Бой</string>
+    <string name="login_failed">Не получилось войти</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="menu_slideshow">Sign in</string>
+</resources>
